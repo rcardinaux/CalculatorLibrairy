@@ -1,0 +1,15 @@
+  
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+### IDE ###
+# VS Code
+.vscode
+.idea
+
+#Parameters
+/.venv/
