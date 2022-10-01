@@ -8,6 +8,7 @@ authors = ["rcardinaux"]
 python = "^3.8"
 flake8 = "^5.0.4"
 pytest = "^7.1.3"
+black = "^22.8.0"
 
 [tool.poetry.dev-dependencies]
 
